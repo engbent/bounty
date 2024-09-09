@@ -1,0 +1,10 @@
+[package]
+name = "Bounty"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+url-escape = "0.1.1"
+walkdir = "2.3.2"
+infer = "0.7.0"
+percent-encoding = "2.1.0"
